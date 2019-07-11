@@ -2,3 +2,4 @@ another file
 another line
 tree
 leaf
+root
